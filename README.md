@@ -1,6 +1,6 @@
 # First Odin Project - Odin Recipes
 
-What I've learned so far:
+## What I've learned so far:
 
 1). Basics about HTML
 
@@ -8,7 +8,7 @@ What I've learned so far:
 
 3). Essence of HTML files 
 
-##Where is it?
+## Where is it?
 https://www.theodinproject.com/lessons/foundations-recipes
 
 ## License
